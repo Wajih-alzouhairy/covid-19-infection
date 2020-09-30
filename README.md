@@ -1,1 +1,1 @@
-# covid-19-infection
+# covid-19--infection
